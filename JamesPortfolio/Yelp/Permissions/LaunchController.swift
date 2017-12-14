@@ -193,7 +193,6 @@ class LaunchController : UIViewController, LocationPermissionDelegate {
                 do {
                     try? account.save()
                     self.defaults.set(true, forKey: AuthorizationString.withToken)
-                    
                 }
             } else {
                 print("Authorization was cancelled or went wrong: \(error!)")
