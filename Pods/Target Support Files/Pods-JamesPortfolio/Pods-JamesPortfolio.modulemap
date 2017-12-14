@@ -1,0 +1,6 @@
+framework module Pods_JamesPortfolio {
+  umbrella header "Pods-JamesPortfolio-umbrella.h"
+
+  export *
+  module * { export * }
+}

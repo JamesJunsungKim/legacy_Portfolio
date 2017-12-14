@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/jameskim/Desktop/Xcode/JamesPortfolio/JamesPortfolio/Selfie/Models/Photo+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:JamesPortfolio.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
