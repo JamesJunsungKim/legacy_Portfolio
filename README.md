@@ -18,6 +18,6 @@ Selfie: CoreData and CoreImage. This part is designed to show that I can handle 
 
 # Features
 
-<img src="https://media.giphy.com/media/xUOwG2PnZt0MVvky1a/giphy.gif"/a>
+<img src="https://media.giphy.com/media/xUOwG2PnZt0MVvky1a/giphy.gif"/>
 
 
