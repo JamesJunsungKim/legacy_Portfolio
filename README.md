@@ -3,7 +3,7 @@
 This application includes three frameworks such as Oauth2, Locksmith, and Cosmos. In order to make it work on Xcode, you might have to download them beforehand.
 
 
-# Skill Summary
+# Summary
 
 This application is built on both programtaically and with storyboard.
 
@@ -16,8 +16,8 @@ Based on the location of the current user / set-up location on simulator, it sho
 Selfie: CoreData and CoreImage. This part is designed to show that I can handle with CoreData and CoreImage.  After chosing what filter you'd like to apply to chosen picture, you can save it to disk. It also has image viwer and zoom features.
 
 
+# Features
 
-
-
+<img src="https://media.giphy.com/media/xUOwG2PnZt0MVvky1a/giphy.gif"/a>
 
 
